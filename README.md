@@ -5,6 +5,6 @@ Excel-based Product Sales &amp; Regional Performance Dashboard using Pivot Table
 This project focuses on analyzing product sales by region using a comprehensive sales dataset from January 2023 to mid-2025. The goal was to visualize sales performance across regions, store locations, products, and time periods, and to track profitability using Advanced Excel features.
 
 ## Dataset Description
-[Dataset](Product Sales By Region Data Analysis Dashboard.xlsx)
+[Dataset](Product%20Sales%20By%20Region%20Data%20Analysis.xlsx)
 
 
