@@ -43,7 +43,6 @@ The analysis was performed entirely in Advanced Excel, including the creation of
  Icons were added to each KPI for better visual representation.
 
  ## Filters / Slicers Used
-
 To make the dashboard interactive and user-friendly, the following filters (slicers) were implemented:
 
 - **Region** – Central, East, North, South, West  
@@ -59,7 +58,6 @@ To make the dashboard interactive and user-friendly, the following filters (slic
  All slicers were connected to all Pivot Tables to ensure synchronized filtering.
 
 ## Process
-
 - Collected and reviewed the product sales dataset in Excel.
 - Performed data cleaning by checking blank values, correcting date formats, and removing duplicates.
 - Created new calculated columns such as Year and Profit for analysis.
@@ -73,6 +71,14 @@ To make the dashboard interactive and user-friendly, the following filters (slic
 - Created key KPIs such as Total Sales, Profit Amount, Profit in Percentage, and Total Orders.
 - Designed a consolidated Excel dashboard with consistent formatting and layout.
 - Analyzed trends and insights: Identified top regions, high-sales months, and profit margin.
+
+## Key Insights
+**Top Performing Region:** North
+**High Sales Months:**
+- 2023: March
+- 2024: January & October
+- 2025: March (dataset up to June 2025)
+**Profit Margin:** ~30%
 
 ## Dashboard Overview
 [Dashboard](https://github.com/shalushetty7-ux/Product-Sales-By-Regional-Analysis-Dashboard/blob/main/Dashboard/Dashboard.jpg)
