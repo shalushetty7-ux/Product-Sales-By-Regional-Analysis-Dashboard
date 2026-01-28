@@ -26,5 +26,13 @@ The dataset contains the following columns:
 - **Returned** – Indicates whether the product was returned  
 - **ShippingCost** – Cost incurred for shipping the order
 
+## Analysis and Dashboard
+The analysis was performed entirely in Advanced Excel, including the creation of the following interactive visualizations:
+
+- **Sales in Region vs Count of Orders** – Identifies high-performing regions
+- **Sales by Store Location** – Compares sales across different stores
+- **Monthwise Sales Chart** – Tracks sales trends by month
+- **Sales vs Profit Chart** – Visualizes profit alongside sales
+
 
 
