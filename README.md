@@ -6,6 +6,7 @@ This project focuses on analyzing product sales by region using a comprehensive 
 
 ## Dataset Description
 [Dataset](https://github.com/shalushetty7-ux/Product-Sales-By-Regional-Analysis-Dashboard/blob/main/Product%20Sales%20By%20Region%20Data%20Analysis%20Dashboard.xlsx)
+
 The dataset contains the following columns:
 
 - **Date, OrderID, OrderDate, DeliveryDate** – Order placement and delivery timelines  
