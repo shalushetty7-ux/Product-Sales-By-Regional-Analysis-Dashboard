@@ -64,7 +64,11 @@ To make the dashboard interactive and user-friendly, the following filters (slic
 - Performed data cleaning by checking blank values, correcting date formats, and removing duplicates.
 - Created new calculated columns such as Year and Profit for analysis.
 - Built Pivot Tables to analyze sales, profit, orders, and regional performance.
-- Designed Pivot Charts for visual analysis ([
+- Designed Pivot Charts for visual analysis (
+  [Month wise Sales](https://github.com/shalushetty7-ux/Product-Sales-By-Regional-Analysis-Dashboard/blob/main/Dashboard/Month%20wise%20sales.jpg)
+  [Sales Vs Profit](https://github.com/shalushetty7-ux/Product-Sales-By-Regional-Analysis-Dashboard/blob/main/Dashboard/Sales%20Vs%20Profit.jpg)
+  [Sales by store location](https://github.com/shalushetty7-ux/Product-Sales-By-Regional-Analysis-Dashboard/blob/main/Dashboard/Sales%20by%20store%20location.jpg)
+  [Sales in region Vs Count of orders](https://github.com/shalushetty7-ux/Product-Sales-By-Regional-Analysis-Dashboard/blob/main/Dashboard/Sales%20in%20region%20Vs%20Count%20of%20orders.jpg))
 - Added slicers to enable interactive filtering by region, product, year, month, store, customer type, and promotion.
 - Created key KPIs such as Total Sales, Total Profit, Profit Percentage, and Total Orders.
 - Designed a consolidated Excel dashboard with consistent formatting and layout.
