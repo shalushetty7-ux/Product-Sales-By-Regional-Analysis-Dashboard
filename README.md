@@ -34,5 +34,12 @@ The analysis was performed entirely in Advanced Excel, including the creation of
 - **Monthwise Sales Chart** – Tracks sales trends by month
 - **Sales vs Profit Chart** – Visualizes profit alongside sales
 
+## KPI Card Created
+- Total Sales
+- Profit Amount
+- Total Orders
+- Total Profit in % – 30% overall
+ Icons were added to each KPI for better visual representation.
+
 
 
