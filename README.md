@@ -58,5 +58,16 @@ To make the dashboard interactive and user-friendly, the following filters (slic
 
  All slicers were connected to all Pivot Tables to ensure synchronized filtering.
 
+## Process
+
+- Collected and reviewed the product sales dataset in Excel.
+- Performed data cleaning by checking blank values, correcting date formats, and removing duplicates.
+- Created new calculated columns such as Year and Profit for analysis.
+- Built Pivot Tables to analyze sales, profit, orders, and regional performance.
+- Designed Pivot Charts for visual analysis ([
+- Added slicers to enable interactive filtering by region, product, year, month, store, customer type, and promotion.
+- Created key KPIs such as Total Sales, Total Profit, Profit Percentage, and Total Orders.
+- Designed a consolidated Excel dashboard with consistent formatting and layout.
+- Exported dashboard visuals and documented the project on GitHub for presentation and review
 
 
