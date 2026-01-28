@@ -70,8 +70,9 @@ To make the dashboard interactive and user-friendly, the following filters (slic
    [Sales by store location](https://github.com/shalushetty7-ux/Product-Sales-By-Regional-Analysis-Dashboard/blob/main/Dashboard/Sales%20by%20store%20location.jpg),
    [Sales in region Vs Count of orders](https://github.com/shalushetty7-ux/Product-Sales-By-Regional-Analysis-Dashboard/blob/main/Dashboard/Sales%20in%20region%20Vs%20Count%20of%20orders.jpg))
 - Added slicers to enable interactive filtering by region, product, year, month, store, customer type, and promotion.
-- Created key KPIs such as Total Sales, Total Profit, Profit Percentage, and Total Orders.
+- Created key KPIs such as Total Sales, Profit Amount, Profit in Percentage, and Total Orders.
 - Designed a consolidated Excel dashboard with consistent formatting and layout.
-- Exported dashboard visuals and documented the project on GitHub for presentation and review
+- Analyzed trends and insights: Identified top regions, high-sales months, and profit margin.
+
 
 
