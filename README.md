@@ -79,7 +79,6 @@ To make the dashboard interactive and user-friendly, the following filters (slic
 
 ## Conclusion
 This dashboard provides a complete overview of product sales, regional performance, profitability, and order trends.
-
 It helps stakeholders make data-driven decisions by analyzing sales trends, store performance, and profit margins using Excel.
 
 
