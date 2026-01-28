@@ -6,6 +6,24 @@ This project focuses on analyzing product sales by region using a comprehensive 
 
 ## Dataset Description
 [Dataset](https://github.com/shalushetty7-ux/Product-Sales-By-Regional-Analysis-Dashboard/blob/main/Product%20Sales%20By%20Region%20Data%20Analysis%20Dashboard.xlsx)
+The dataset contains the following columns:
+
+- **Date, OrderID, OrderDate, DeliveryDate** – Order placement and delivery timelines  
+- **Year** – Year extracted for time-based analysis  
+- **Region, RegionManager** – Geographic sales region and responsible manager  
+- **StoreLocation** – Store where the sale occurred (Store A, Store B, Store C, Store D)  
+- **Product** – Product category (Chair, Desk, Phone, Laptop, etc.)  
+- **Quantity** – Number of units sold per order  
+- **UnitPrice** – Price per unit of the product  
+- **TotalPrice (Sales)** – Total sales value for each transaction  
+- **Profit** – Profit earned from each order  
+- **CustomerName, CustomerType** – Customer details and segment (Retail / Wholesale)  
+- **Salesperson** – Sales representative associated with the order  
+- **PaymentMethod** – Mode of payment (Cash, Credit Card, Debit Card, Gift Card, Online)  
+- **Discount** – Discount applied on the order  
+- **Promotion** – Promotional offer used (if any)  
+- **Returned** – Indicates whether the product was returned  
+- **ShippingCost** – Cost incurred for shipping the order
 
 
 
