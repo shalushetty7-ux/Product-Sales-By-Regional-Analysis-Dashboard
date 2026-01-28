@@ -53,7 +53,8 @@ To make the dashboard interactive and user-friendly, the following filters (slic
 - **Store Location** – Store A, Store B, Store C, Store D  
 - **Customer Type** – Retail, Wholesale  
 - **Payment Method** – Cash, Credit Card, Debit Card, Gift Card, Online  
-- **Promotion** – FREESHIP, SAVE10, WINTER15, NA  
+- **Promotion** – FREESHIP, SAVE10, WINTER15, NA
+- **Discount** - 0, 0.1, 0.15, 0.05
 
 These slicers allow to quickly filter data and view insights from different perspectives, enabling better decision-making and comparative analysis across regions, products, and time periods.
 
