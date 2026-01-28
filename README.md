@@ -39,6 +39,7 @@ The analysis was performed entirely in Advanced Excel, including the creation of
 - Profit Amount
 - Total Orders
 - Total Profit in % – 30% overall
+
  Icons were added to each KPI for better visual representation.
 
 
