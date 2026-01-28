@@ -42,5 +42,20 @@ The analysis was performed entirely in Advanced Excel, including the creation of
 
  Icons were added to each KPI for better visual representation.
 
+ ## Filters / Slicers Used
+
+To make the dashboard interactive and user-friendly, the following filters (slicers) were implemented:
+
+- **Region** – Central, East, North, South, West  
+- **Product** – Chair, Desk, Laptop, Monitor, Phone, Tablet  
+- **Year** – 2023, 2024, 2025  
+- **Month** – January to December  
+- **Store Location** – Store A, Store B, Store C, Store D  
+- **Customer Type** – Retail, Wholesale  
+- **Payment Method** – Cash, Credit Card, Debit Card, Gift Card, Online  
+- **Promotion** – FREESHIP, SAVE10, WINTER15, NA  
+
+These slicers allow to quickly filter data and view insights from different perspectives, enabling better decision-making and comparative analysis across regions, products, and time periods.
+
 
 
