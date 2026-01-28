@@ -56,7 +56,7 @@ To make the dashboard interactive and user-friendly, the following filters (slic
 - **Promotion** – FREESHIP, SAVE10, WINTER15, NA
 - **Discount** - 0, 0.1, 0.15, 0.05
 
-These slicers allow to quickly filter data and view insights from different perspectives, enabling better decision-making and comparative analysis across regions, products, and time periods.
+ All slicers were connected to all Pivot Tables to ensure synchronized filtering.
 
 
 
