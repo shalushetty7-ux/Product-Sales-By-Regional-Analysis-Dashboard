@@ -77,4 +77,9 @@ To make the dashboard interactive and user-friendly, the following filters (slic
 ## Dashboard Overview
 [Dashboard](https://github.com/shalushetty7-ux/Product-Sales-By-Regional-Analysis-Dashboard/blob/main/Dashboard/Dashboard.jpg)
 
+## Conclusion
+This dashboard provides a complete overview of product sales, regional performance, profitability, and order trends.
+
+It helps stakeholders make data-driven decisions by analyzing sales trends, store performance, and profit margins using Excel.
+
 
