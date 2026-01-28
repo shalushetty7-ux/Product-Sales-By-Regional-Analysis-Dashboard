@@ -74,5 +74,7 @@ To make the dashboard interactive and user-friendly, the following filters (slic
 - Designed a consolidated Excel dashboard with consistent formatting and layout.
 - Analyzed trends and insights: Identified top regions, high-sales months, and profit margin.
 
+## Dashboard Overview
+[Dashboard](https://github.com/shalushetty7-ux/Product-Sales-By-Regional-Analysis-Dashboard/blob/main/Dashboard/Dashboard.jpg)
 
 
