@@ -74,10 +74,12 @@ To make the dashboard interactive and user-friendly, the following filters (slic
 
 ## Key Insights
 **Top Performing Region:** North
+
 **High Sales Months:**
 - 2023: March
 - 2024: January & October
 - 2025: March (dataset up to June 2025)
+  
 **Profit Margin:** ~30%
 
 ## Dashboard Overview
